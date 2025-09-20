@@ -3,7 +3,7 @@ title: "[go1.25]json/v1→v2で何が変わったん？〜気になった変更�
 emoji: "🤖"
 type: "tech" # tech: 技術記事 / idea: アイデア
 topics: [Go,JSON]
-published: false
+published: true
 ---
 
 # はじめに
